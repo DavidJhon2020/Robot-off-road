@@ -12,3 +12,6 @@ Cooperate with graduate students to participate in the off-road track of the sch
 3.负责HARDWARE中编码器部分，采用霍尔编码器。  
 ## Video results
 https://b23.tv/dyU13ZX
+## Award certificate
+![image](https://github.com/DavidJhon2020/Robot-off-road/assets/74477314/66215ab5-112f-4cf9-89fd-01e43974214f)
+![image](https://github.com/DavidJhon2020/Robot-off-road/assets/74477314/208d180e-ffa4-4aa7-a7b0-4b821b0db188)
